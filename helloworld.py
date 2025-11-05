@@ -1,0 +1,9 @@
+print("Hello World")
+if True:
+   print ("Answer")
+   print ("True")
+else:
+   print ("Answer")
+   print ("False")
+counter =30;
+print (counter)
