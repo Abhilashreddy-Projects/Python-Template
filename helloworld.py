@@ -1,3 +1,5 @@
+import my_module
+
 print("Hello World")
 if True:
    print ("Answer")
@@ -7,3 +9,4 @@ else:
    print ("False")
 counter =30;
 print (counter)
+my_module.sum(5,10)
